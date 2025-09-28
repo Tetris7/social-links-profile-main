@@ -54,14 +54,6 @@ This project helped me practice:
 - Styling links as uniform buttons for better user interaction  
 - Creating visual hierarchy using typography and spacing
 
-Here's a sample snippet from the button layout:
-
-```html
-<a class="social-button" href="#">GitHub</a>
-<a class="social-button" href="#">Frontend Mentor</a>
-<a class="social-button" href="#">LinkedIn</a>
-<a class="social-button" href="#">Twitter</a>
-<a class="social-button" href="#">Instagram</a>
 
 ## Useful Resources
 
