@@ -65,7 +65,7 @@ Google Fonts
 
 ## Author
 
-Your Name – Adetoro .H. Adeniyi
+Name – Adetoro .H. Adeniyi
 
 Frontend Mentor – @Tetris7
 
